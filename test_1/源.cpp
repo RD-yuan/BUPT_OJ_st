@@ -75,3 +75,11 @@ int Search(int a[], int x, int left, int right)//二分查找（递归）
 	RightThird=(Left+Right*2)/3;
 	比较二者.
 	*/
+//整型除法向上取整：被除数+除数-1.
+//贪心算法
+//可图性判定！
+/* sort函数 sort(a,a+10,cmp)
+左闭右开区间[a[0],a[10])*/
+/*并查集(Disjoint Set) 不相交集合.
+* 常见操作：合并两个集合；查找某个元素属于哪个集合.
+*/
