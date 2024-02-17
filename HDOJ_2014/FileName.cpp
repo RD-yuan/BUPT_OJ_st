@@ -16,7 +16,7 @@ int main()
 			scanf("%f", &a[i]);
 		}
 		sort(a, a + N);
-		float sum = 0;
+		float sum = 0;//无理错误：数据类型！！！  //int sum = 0;
 		for (int j = 1; j < N-1; j++)
 		{
 			sum = sum + a[j];
