@@ -1,0 +1,4 @@
+﻿  源.c
+C:\Users\13181\Desktop\BUPT_OJ\BUPT_OJ_st\一个新的斐波那契数列\源.c(14,8): warning C4101: “m”: 未引用的局部变量
+C:\Users\13181\Desktop\BUPT_OJ\BUPT_OJ_st\一个新的斐波那契数列\源.c(11): warning C4715: “Fibonacci”: 不是所有的控件路径都返回值
+  一个新的斐波那契数列.vcxproj -> C:\Users\13181\Desktop\BUPT_OJ\BUPT_OJ_st\一个新的斐波那契数列\x64\Debug\一个新的斐波那契数列.exe

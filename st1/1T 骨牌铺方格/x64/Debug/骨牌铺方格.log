@@ -1,0 +1,10 @@
+﻿  源.cpp
+C:\Users\13181\Desktop\BUPT_OJ\BUPT_OJ_st\骨牌铺方格\源.cpp(16,10): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“__int64”
+  C:\Users\13181\Desktop\BUPT_OJ\BUPT_OJ_st\骨牌铺方格\源.cpp(16,10):
+  请考虑在格式字符串中使用“%lld”
+  C:\Users\13181\Desktop\BUPT_OJ\BUPT_OJ_st\骨牌铺方格\源.cpp(16,10):
+  请考虑在格式字符串中使用“%Id”
+  C:\Users\13181\Desktop\BUPT_OJ\BUPT_OJ_st\骨牌铺方格\源.cpp(16,10):
+  请考虑在格式字符串中使用“%I64d”
+  
+  骨牌铺方格.vcxproj -> C:\Users\13181\Desktop\BUPT_OJ\BUPT_OJ_st\骨牌铺方格\x64\Debug\骨牌铺方格.exe

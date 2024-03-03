@@ -1,0 +1,6 @@
+﻿  FileName.cpp
+C:\Users\13181\Desktop\BUPT_OJ\BUPT_OJ_st\st1\1K奋勇争先续\FileName.cpp(34,11): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 2 拥有了类型“int *”
+C:\Users\13181\Desktop\BUPT_OJ\BUPT_OJ_st\st1\1K奋勇争先续\FileName.cpp(34,11): warning C4313: "printf": 格式字符串中的 "%d" 与类型为 "int *" 的参数 2 冲突
+C:\Users\13181\Desktop\BUPT_OJ\BUPT_OJ_st\st1\1K奋勇争先续\FileName.cpp(34,11): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 3 拥有了类型“int *”
+C:\Users\13181\Desktop\BUPT_OJ\BUPT_OJ_st\st1\1K奋勇争先续\FileName.cpp(34,11): warning C4313: "printf": 格式字符串中的 "%d" 与类型为 "int *" 的参数 3 冲突
+  奋勇争先续.vcxproj -> C:\Users\13181\Desktop\BUPT_OJ\BUPT_OJ_st\st1\1K奋勇争先续\x64\Debug\奋勇争先续.exe
